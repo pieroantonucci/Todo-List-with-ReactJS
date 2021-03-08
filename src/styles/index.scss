@@ -11,3 +11,33 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+  width: 100%;
+  margin: auto;
+  background-color: grey;
+}
+.input {
+  width: 100%;
+  text-align: center;
+}
+
+
+a{
+  float:right;
+  margin-right:20px;
+}
+
+.trashIcon:hover {
+  color:tomato;
+  size: 5px;
+}
+
+.deleteButton{
+  float: right;
+}
+
+.title{
+  font-size: 100px;
+  text-align: center;
+}
